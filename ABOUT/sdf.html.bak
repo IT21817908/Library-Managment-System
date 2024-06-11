@@ -1,0 +1,238 @@
+<!DOCTYPE>
+<html lang="en">
+	<head>
+	<meta charset="UTF-8" >
+	<title>CATEGORY</title>
+	<link rel="stylesheet" href="style1.css">
+	
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/fontawesome.min.css">
+
+	</head>
+
+	<body>
+	<div class="header">
+		
+		<div class="navbar">
+			<nav>
+			<img src="logo.jpg" width="125px">
+			<div class="nav-links">
+					<ul>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/home/index.html">HOME</a></li>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/category/Catagoy.html">CATEGORY</a></li>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/ABOUT/sdf.html">ABOUT</a></li>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/CONTACT/new1.html">CONTACT</a></li>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/loging/loging.html">ACCOUNT</a></li>
+						
+						
+					</ul>	
+			</div>
+			
+			 <a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/CART/cart.html"><img src="cart.png" width="30px" height="30px"></a>
+			</nav>
+		</div>
+		
+		<div class="row">
+			<div class= "col-2">
+			<center>
+				<h1>ABOUT</h1>
+				<p>“The more that you read, the more things you will know.<br>The more that you learn, the more places you’ll go.”</p>
+			</center>
+			</div>
+			<div>
+				<img src="logo.jpg" width="400px">
+			</div>
+			</div>
+			
+	</div>
+		
+		
+	
+	<!--- PARTNERS---->
+	
+		<div class="small-container">
+			<h2 class="title">PARTNERS OF WEBSITE</h2>
+				<div class="small-container">
+					<div class= "row">
+						<div class="col-4">
+							<img src="yo.jpeg">
+							<h4>M.Y.W SIRIWADHANA</h4>
+							<p>My role is HTML coding in this Website</p>
+						</div>
+						<div class="col-4">
+							<img src="man1.jpg">
+							<h4>PRADEEP KUMARA</h4>
+							<p>My role is CSS coding in this Website</p>
+						</div>
+						<div class="col-4">
+							<img src="man1.jpg">
+							<h4>D.A CHATHUNI DIMAGI</h4>
+							<p>My role is PHP coding in this Website</p>
+						</div>
+						<div class="col-4">
+							<img src="man1.jpg">
+							<h4>MALEESHA KESHAN</h4>
+							<p>My role is JAVA coding in this Website</p>
+						</div>
+						
+					
+					</div>
+				
+				</div>
+			
+		</div>
+		
+		
+		<div class="small-container">
+			<h2 class="title">PARTNERS OF LIBRARY</h2>
+				<div class="small-container">
+					<div class= "row">
+						<div class="col-4">
+							<img src="yo.jpeg">
+							<h4>M.Y.W SIRIWADHANA</h4>
+							<p>My role is HTML coding in this Website</p>
+						</div>
+						<div class="col-4">
+							<img src="man1.jpg">
+							<h4>PRADEEP KUMARA</h4>
+							<p>My role is CSS coding in this Website</p>
+						</div>
+						<div class="col-4">
+							<img src="man1.jpg">
+							<h4>D.A CHATHUNI DIMAGI</h4>
+							<p>My role is PHP coding in this Website</p>
+						</div>
+						<div class="col-4">
+							<img src="man1.jpg">
+							<h4>MALEESHA KESHAN</h4>
+							<p>My role is JAVA coding in this Website</p>
+						</div>
+					</div>
+				</div>
+		</div>
+		
+		<!---- Facilities ---->
+		<section class="facilities">
+			<h2 class="title">OUR FACILITIES</h2>
+			<div class="row">
+				<div class="facilities-col">
+				<img src= "canteen.jpg">
+				<h3>Canteen</h3>
+				<p>jshdgf hhdgfkadgf kajdhfkjagfak kajdhfkaj</p>
+				</div>
+				
+				<div class="facilities-col">
+				<img src= "free-area.jpg">
+				<h3>Free area</h3>
+				<p>jshdgf hhdgfkadgf kajdhfkjagfak kajdhfkaj</p>
+				</div>
+				
+				<div class="facilities-col">
+				<img src= "store.jpg">
+				<h3>Book store</h3>
+				<p>jshdgf hhdgfkadgf kajdhfkjagfak kajdhfkaj</p>
+				</div>
+			</div>
+			
+		</section>
+		
+		<!----HOW TO BUY BOOKS---->
+		<section class="facilities">
+			<h2 class="title">HOW TO BUY BOOKS</h2>
+			<div class="row">
+				<div class="facilities-col">
+				<img src= "canteen.jpg">
+				<h3>Select Book</h3>
+				<p>jshdgf hhdgfkadgf kajdhfkjagfak kajdhfkaj</p>
+				</div>
+				
+				<div class="facilities-col">
+				<img src= "free-area.jpg">
+				<h3>Add to Cart</h3>
+				<p>jshdgf hhdgfkadgf kajdhfkjagfak kajdhfkaj</p>
+				</div>
+				
+				<div class="facilities-col">
+				<img src= "store.jpg">
+				<h3>Payment</h3>
+				<p>jshdgf hhdgfkadgf kajdhfkjagfak kajdhfkaj</p>
+				</div>
+			</div>
+			
+		</section>
+		
+		<!----HOW TO REGISTER IN SITE---->
+		<section class="facilities">
+			<h2 class="title">HOW TO REGISTER IN SITE</h2>
+			<div class="row">
+				<div class="facilities-col">
+				<img src= "canteen.jpg">
+				<h3>Select Book</h3>
+				<p>jshdgf hhdgfkadgf kajdhfkjagfak kajdhfkaj</p>
+				</div>
+				
+				<div class="facilities-col">
+				<img src= "free-area.jpg">
+				<h3>Add to Cart</h3>
+				<p>jshdgf hhdgfkadgf kajdhfkjagfak kajdhfkaj</p>
+				</div>
+				
+				<div class="facilities-col">
+				<img src= "store.jpg">
+				<h3>Payment</h3>
+				<p>jshdgf hhdgfkadgf kajdhfkjagfak kajdhfkaj</p>
+				</div>
+			</div>
+			
+		</section>
+		
+		<!---OTHER--->
+		<section class="course">
+			<h2 class="title">OTHER</h2>
+			
+			
+			<div class="row">
+				<div class="course-col">
+					<h3>Discount</h3>
+					<p>Created this animation out of my latest work.<br>Someday I will finally teach myself After <br>Effects. No more frame-by-frame<br> photoshop gifs like some kind of</p>
+				</div>
+				
+				<div class="course-col">
+					<h3>Extra Time Frame</h3>
+					<p>Created this animation out of my latest work.<br>Someday I will finally teach myself After <br>Effects. No more frame-by-frame<br> photoshop gifs like some kind of</p>
+				</div>
+				
+				<div class="course-col">
+					<h3>Most Populer Books</h3>
+					<p>Created this animation out of my latest work.<br>Someday I will finally teach myself After <br>Effects. No more frame-by-frame<br> photoshop gifs like some kind of</p>
+				</div>
+			</div>
+		</section>
+		
+		
+		<!---- Footer ---->
+		<hr>
+		<section class="footer">
+			<h4>About</h4>
+			<p> jgdsfjhdgfajhdghdgc ajhgduafdg <br>ajhdgdf hdoqaihd ayuydgdahgfb ayusgdiqg iaisgdiuag</p>
+		
+		
+		
+			<div class="icons">
+				<i class="fa fa-facebook-square"></i>
+				<i class="fas fa-cat"></i>
+				<i class="fas fa-dragon"></i>
+				<i class="far fa-clock"></i>
+				<i class="fas fa-clock"></i>
+			</div>
+		</section>
+		
+		
+		
+	</body>
+
+
+
+</html>
