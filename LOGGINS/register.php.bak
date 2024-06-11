@@ -1,0 +1,20 @@
+<?php
+	
+	include "../ConnectDataBase/connect.php";
+	
+	if(isset($_POST['submit'])){
+		
+		$Username = $_POST['Username'];
+		$Email = $_POST['Email'];
+		$Password = $_POST['Password'];
+		
+		$sqli = "INSERT INTO registration (Username,Email,Password) VALUES ('$Username','$Email','$Password')";
+		
+		$result = mysqli_query($connect , $sqli );
+		
+	}
+
+
+
+
+?>

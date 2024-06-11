@@ -1,0 +1,41 @@
+ <?php
+ 
+	include "../ConnectDataBase/connect.php";
+	
+	if(isset($_POST['submit'])){
+		
+		$username = $_POST['Username'];
+		$password = $_POST['submit'];
+		
+		$sql = "SELECT * FROM registration WHERE Email = '$username';";
+		
+		$result = mysqli_query($connect , $sql);
+	
+		
+		if(mysqli_num_rows($result)>0){
+		
+			$row = mysqli_fetch_assoc($result);
+			print_r($row);
+			
+			
+			if($password == $row['Password']){
+				header("Location:../category/Catagoy.html");
+			}else{
+				echo "invallied username or password";
+			}
+			
+		}else{
+			echo "invallied username or password";
+		}	
+	}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ?>
