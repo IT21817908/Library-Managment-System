@@ -1,0 +1,94 @@
+<!DOCTYPE>
+<html lang="en">
+	<head>
+	<meta charset="UTF-8" >
+	
+	<title>LOGIN</title>
+	<link rel="stylesheet" href="style2.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/fontawesome.min.css">
+
+	</head>
+
+	<body>
+	<div class="header">
+		
+		<div class="navbar">
+			<nav>
+			<img src="logo.jpg" width="125px">
+			<div class="nav-links">
+					<ul>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/home/index.html">HOME</a></li>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/category/Catagoy.html">CATEGORY</a></li>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/ABOUT/sdf.html">ABOUT</a></li>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/CONTACT/new1.html">CONTACT</a></li>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/loging/loging.html">ACCOUNT</a></li>
+						
+						
+					</ul>	
+			</div>
+			
+			 <a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/CART/cart.html"><img src="cart.png" width="30px" height="30px"></a>
+			</nav>
+		</div>
+		
+		
+	
+	<!--- LOGIN---->
+	<div class="account-page">
+		<div class="container">
+			<div class="row">
+				<div class="col-2"> 
+					<img src="cat.png">
+				</div>
+				<div class="contact-col">
+				
+					<form class="">
+						<input class="text" placeholder="Enter Your Name" required>
+						<input class="email" placeholder="Enter Email Eddress" required>
+						<input class="text" placeholder="Enter Your Subject" required>
+						<textarea rows="8" placeholder="Message" required></textarea>
+						<button type="submit" class="hero-btn1 red-btn">Send Message</button>
+					</form>
+					</div>
+				
+				
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+
+		
+		<!---- Footer ---->
+		<hr>
+		<section class="footer">
+			<h4>About</h4>
+			<p> jgdsfjhdgfajhdghdgc ajhgduafdg <br>ajhdgdf hdoqaihd ayuydgdahgfb ayusgdiqg iaisgdiuag</p>
+		
+		
+		
+			<div class="icons">
+				<i class="fa fa-facebook-square"></i>
+				<i class="fas fa-cat"></i>
+				<i class="fas fa-dragon"></i>
+				<i class="far fa-clock"></i>
+				<i class="fas fa-clock"></i>
+			</div>
+		</section>
+		
+	</div>	
+		
+		
+
+		
+		
+		
+		
+	</body>
+
+
+
+</html>

@@ -1,0 +1,129 @@
+<!DOCTYPE>
+<html>
+	<head>
+	<meta name= "viewport" content= "with=device-width, initial-scale=1.0" >
+	<title>HOME</title>
+	<link rel="stylesheet" href="style.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/fontawesome.min.css">
+
+	</head>
+
+	<body>
+		
+		<section class="header">
+			<div class="navbar">
+			<nav>
+			<img src="logo.jpg" width="125px">
+			<div class="nav-links">
+					<ul>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/home/index.html">HOME</a></li>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/category/Catagoy.html">CATEGORY</a></li>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/ABOUT/sdf.html">ABOUT</a></li>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/CONTACT/new1.html">CONTACT</a></li>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/loging/loging.html">ACCOUNT</a></li>
+						
+						
+					</ul>	
+			</div>
+			
+			 <a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/CART/cart.html"><img src="cart.png" width="30px" height="30px"></a>
+			</nav>
+		</div>
+		
+		
+	<div class= "text-box">
+		<h1>LIBRO</h1>
+		<p> “The more that you read, the more things you will know.<br>The more that you learn, the more places you’ll go.”</p>
+		<a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/category/Catagoy.html" class="hero-btn">Visit The Library</a>
+	</div>
+		</section>
+		<br>
+		<br>
+		<br>
+		<br>
+		
+		<!---OFFERS--->
+		<section class="course">
+			<h1>Libro We Offer</h1>
+			<p>This chapter includes the offers,<br>We provide to our Customer</p>
+			
+			<div class="row">
+				<div class="course-col">
+					<h3>Discount</h3>
+					<p>Created this animation out of my latest work.<br>Someday I will finally teach myself After <br>Effects. No more frame-by-frame<br> photoshop gifs like some kind of</p>
+				</div>
+				
+				<div class="course-col">
+					<h3>Extra Time Frame</h3>
+					<p>Created this animation out of my latest work.<br>Someday I will finally teach myself After <br>Effects. No more frame-by-frame<br> photoshop gifs like some kind of</p>
+				</div>
+				
+				<div class="course-col">
+					<h3>Most Populer Books</h3>
+					<p>Created this animation out of my latest work.<br>Someday I will finally teach myself After <br>Effects. No more frame-by-frame<br> photoshop gifs like some kind of</p>
+				</div>
+			</div>
+		</section>
+		
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		
+		
+		<!---location-->
+		<section class="location">
+			<h3>LOCATION</h3>
+			<p>Location Of Our Libraries Throughout The Islank</p>
+			
+			<div class="row">
+				<div class="location-col">
+					<img src="kuru.jpg">
+					<div class="layer">
+					<h3>KURUNEGALA</h3>
+					</div>
+				</div>
+				<div class="location-col">
+					<img src="kandy.jpg">
+					<div class="layer">
+					<h3>KANDY</h3>
+					</div>
+				</div>
+				<div class="location-col">
+					<img src="colombo.jpg">
+					<div class="layer">
+					<h3>COLOMBO</h3>
+					</div>
+				</div>
+			</div>
+		</section>
+		
+
+		<!---- Footer ---->
+		<hr>
+		<section class="footer">
+			<h4>About</h4>
+			<p> jgdsfjhdgfajhdghdgc ajhgduafdg <br>ajhdgdf hdoqaihd ayuydgdahgfb ayusgdiqg iaisgdiuag</p>
+		
+		
+		
+			<div class="icons">
+				<i class="fa fa-facebook-square"></i>
+				<i class="fas fa-cat"></i>
+				<i class="fas fa-dragon"></i>
+				<i class="far fa-clock"></i>
+				<i class="fas fa-clock"></i>
+			</div>
+		</section>
+		
+		
+		
+	</body>
+
+
+
+</html>

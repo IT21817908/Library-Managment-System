@@ -1,0 +1,11 @@
+<?php
+	$server="localhost";
+	$servername="root";
+	$passweord="";
+	$dbname="libro";
+	
+	$connect=mysqli_connect($server, $servername, $passweord, $dbname);
+	
+	
+
+?>

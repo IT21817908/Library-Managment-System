@@ -1,0 +1,124 @@
+<!DOCTYPE>
+<html lang="en">
+	<head>
+	<meta charset="UTF-8" >
+	
+	<title>LOGIN</title>
+	<link rel="stylesheet" href="style2.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/fontawesome.min.css">
+
+	</head>
+
+	<body>
+	<div class="header">
+		
+		<div class="navbar">
+			<nav>
+			<img src="logo.jpg" width="125px">
+			<div class="nav-links">
+					<ul>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/home/index.html">HOME</a></li>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/category/Catagoy.html">CATEGORY</a></li>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/ABOUT/sdf.html">ABOUT</a></li>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/CONTACT/new1.html">CONTACT</a></li>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/loging/loging.html">ACCOUNT</a></li>
+						
+						
+					</ul>	
+			</div>
+			
+			 <a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/CART/cart.html"><img src="cart.png" width="30px" height="30px"></a>
+			</nav>
+		</div>
+		
+		
+	
+	<!--- LOGIN---->
+	<div class="account-page">
+		<div class="container">
+			<div class="row">
+				<div class="col-2"> 
+					<img src="cat.png">
+				</div>
+				
+				<div class="col-2">
+					<div class="form-container">
+						<div class="form-btn">
+						<span onclick="login()">Login</span>
+						<span onclick="register()">Register</span>
+						<hr id="indicator">
+						</div>
+					
+					<form id="loginform">
+						<input text="text" placeholder="Username">
+						<input text="password" placeholder="Password">
+						<button text="submit" class="btn">LOGIN</button>
+						<a href="">Forgot password</a>
+					</form >
+					<form id="regform">
+						<input text="text" placeholder="Username">
+						<input text="email" placeholder="Email">
+						<input text="password" placeholder="Password">
+						<button text="submit" class="btn">REGISTER</button>
+						
+					</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+
+		
+		<!---- Footer ---->
+		<hr>
+		<section class="footer">
+			<h4>About</h4>
+			<p> jgdsfjhdgfajhdghdgc ajhgduafdg <br>ajhdgdf hdoqaihd ayuydgdahgfb ayusgdiqg iaisgdiuag</p>
+		
+		
+		
+			<div class="icons">
+				<i class="fa fa-facebook-square"></i>
+				<i class="fas fa-cat"></i>
+				<i class="fas fa-dragon"></i>
+				<i class="far fa-clock"></i>
+				<i class="fas fa-clock"></i>
+			</div>
+		</section>
+		
+	</div>	
+		
+		
+<!----------js for login form--------->
+		<script>
+		var loginform = document.getElementById("loginform");
+		var regform = document.getElementById("regform");
+		var indicator = document.getElementById("indicator")
+			
+			function register(){
+				regform.style.transform = "translateX(0px)";
+				loginform.style.transform = "translateX(0px)"
+				indicator.style.transform = "translateX(100px)"
+			}
+			function login(){
+				regform.style.transform = "translateX(300px)";
+				loginform.style.transform = "translateX(300px)"
+				indicator.style.transform = "translateX(0px)"
+			}
+			
+			
+			
+		</script>
+		
+		
+		
+		
+	</body>
+
+
+
+</html>
