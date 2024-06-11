@@ -1,0 +1,152 @@
+<!DOCTYPE>
+<html lang="en">
+	<head>
+	<meta charset="UTF-8" >
+	<title>SINHALA</title>
+	<link rel="stylesheet" href="style1.css">
+	
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/fontawesome.min.css">
+
+	</head>
+
+	<body>
+	<div class="header">
+		
+		<div class="navbar">
+			<nav>
+			<img src="logo.jpg" width="125px">
+			<div class="nav-links">
+					<ul>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/index.html">HOME</a></li>
+						<li><a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/Catagoy.html">CATEGORY</a></li>
+						<li><a href="">ABOUT</a></li>
+						<li><a href="">HELP</a></li>
+						<li><a href="">LOG IN</a></li>
+						<li><a href="">SIGN IN</a></li>
+						
+					</ul>	
+			</div>
+			<img src="cart.png" width="30px" height="30px">
+			</nav>
+			
+			
+			
+		</div>
+		<div class="row">
+			<div class= "col-2">
+			<center>
+				<h1>CATEGORY</h1>
+				<p>“The more that you read, the more things you will know.<br>The more that you learn, the more places you’ll go.”</p>
+				<a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/english.html" class="btn">கட்டுரை</a>
+				<a href="file:///C:/Users/DOWNLOAD/OneDrive/Desktop/IWT%20G.project/HORRO.html" class="btn">நாவல்</a>
+				<a href="" class="btn">மொழிபெயர்ப்பு</a>
+				<a href="" class="btn">வாழ்க்கை வரலாறு</a>
+				<a href="" class="btn">சிறுகதை</a>
+				<a href="" class="btn">வரலாறு</a>
+				</center>
+			</div>
+			<div>
+				<img src="tamil.png" width="400px">
+			</div>
+			</div>
+			
+	</div>
+		
+		
+	
+	<!--- book CATEGORY---->
+	
+		<div class="small-container">
+			<h2 class="title">THRILLER BOOKS</h2>
+				<div class="small-container">
+					<div class= "row">
+						<div class="col-4">
+							<img src="Thriller1.jfif">
+							
+							<div class="rating">
+								<i class= "fa fa-star"></i>
+								<i class= "fa fa-star"></i>
+								<i class= "fa fa-star"></i>
+								<i class= "fa fa-star"></i>
+								<i class= "fa fa-star-o"></i>
+							</div>
+							<p>$50.00</p>
+						</div>
+						<div class="col-4">
+							<img src="Thriller1.jfif">
+							
+							<div class="rating">
+								<i class= "fa fa-star"></i>
+								<i class= "fa fa-star"></i>
+								<i class= "fa fa-star"></i>
+								<i class= "fa fa-star"></i>
+								<i class= "fa fa-star-o"></i>
+							</div>
+							<p>$50.00</p>
+						</div>
+						<div class="col-4">
+							<img src="Thriller1.jfif">
+							
+							<div class="rating">
+								<i class= "fa fa-star"></i>
+								<i class= "fa fa-star"></i>
+								<i class= "fa fa-star"></i>
+								<i class= "fa fa-star"></i>
+								<i class= "fa fa-star-o"></i>
+							</div>
+							<p>$50.00</p>
+						</div>
+						<div class="col-4">
+							<img src="Thriller1.jfif">
+							
+							<div class="rating">
+								<i class= "fa fa-star"></i>
+								<i class= "fa fa-star"></i>
+								<i class= "fa fa-star"></i>
+								<i class= "fa fa-star"></i>
+								<i class= "fa fa-star-o"></i>
+							</div>
+							<p>$50.00</p>
+						</div>
+					</div>
+					<div class="page-bin">
+						<span>1</span>
+						<span>2</span>
+						<span>3</span>
+						<span>4</span>
+						<span>&#8594;</span>
+					</div>
+				
+				</div>
+			
+		</div>
+		
+		
+		
+		<!---- Footer ---->
+		<hr>
+		<section class="footer">
+			<h4>About</h4>
+			<p> jgdsfjhdgfajhdghdgc ajhgduafdg <br>ajhdgdf hdoqaihd ayuydgdahgfb ayusgdiqg iaisgdiuag</p>
+		
+		
+		
+			<div class="icons">
+				<i class="fa fa-facebook-square"></i>
+				<i class="fas fa-cat"></i>
+				<i class="fas fa-dragon"></i>
+				<i class="far fa-clock"></i>
+				<i class="fas fa-clock"></i>
+			</div>
+		</section>
+		
+		
+		
+	</body>
+
+
+
+</html>
