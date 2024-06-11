@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.nav{
+    text-align: center;
+    align-items: center;
+}
+
+.nav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+    background-color: #171819;
+    
+}
+
+.nav ul li{
+    padding: 15px 20px;
+    color: #fff;
+    
+}
+
+.nav ul li:hover{
+    background-color: #fd00be;
+}
+
+.nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+}
+
+.sections{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.sections form input{
+    margin: 50px 0;
+}
